@@ -7,4 +7,4 @@ In this competition, we will address when the earthquake will take place. Specif
 
 I extracted different features from acoustic data and built LightGBM and XGBoost models to predict the time to the next earthquake happen.
 
-Jilin
+Ang Liu & Jilin Wang 
